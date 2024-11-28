@@ -18,9 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a senior studying computer science and math at Princeton University, where I'm lucky to be advised by Matt Weinberg. 
+I am currently a senior studying computer science and math at Princeton University, where I'm lucky to be advised by [Matt Weinberg](https://www.cs.princeton.edu/~smattw/). 
 
-My research interests are broadly in theoretical computer science, with a focus on <b> algorithm design <b> under incentives, uncertainty, and other interesting models. My main research experience has been in algorithmic game theory and mechanism design, where I've been working on matroid prophet inequalities and approximately optimal auction mechanisms. I've also done some work in algorithmic graph theory and quantum computing before that, under the wonderful mentorship of István Miklós (Rényi Institute) and Ali Javadi-Abhari (IBM Research). While at Princeton, I've been grateful to have received the Goldwater Scholarship, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence. 
+My research interests are broadly in theoretical computer science, with a focus on algorithm design under incentives, uncertainty, and other interesting models. My main research experience has been in algorithmic game theory and mechanism design, where I've been working on matroid prophet inequalities and approximately optimal auction mechanisms. 
+
+I've also done some work in algorithmic graph theory and quantum computing before that, under the wonderful mentorship of István Miklós (Rényi Institute) and Ali Javadi-Abhari (IBM Research). While at Princeton, I've been grateful to have received the Goldwater Scholarship, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence. 
 
 You can reach me at my-first-name@princeton.edu! 
 
