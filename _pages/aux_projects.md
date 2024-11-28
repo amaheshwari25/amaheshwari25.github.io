@@ -2,7 +2,7 @@
 layout: page
 title: Miscellaneous Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here's a list of some miscellaneous projects I've worked on in college. 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
