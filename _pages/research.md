@@ -8,36 +8,52 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
 <div class="projects-container">
   <!-- Project 1 -->
   <div class="project">
-    <button class="toggle" onclick="toggleDetails(this)">Algorithmic Game Theory: Matroid Prophet Inequalities <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[View Paper]</a></button>
+    <div class="project-header">
+      <span class="triangle" onclick="toggleDetails(this)">▶</span>
+      <span class="project-title">Algorithmic Game Theory: Matroid Prophet Inequalities <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[paper]</a></span>
+    </div>
     <div class="details" style="display: none;">
       <p>Short description of the first research project. This is a two-sentence blurb that explains what the project is about.</p>
     </div>
   </div>
-  <!-- Project 2 -->
   <div class="project">
-    <button class="toggle" onclick="toggleDetails(this)">Algorithmic Graph Theory: Hypergraphic Degree Sequences <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[View Paper]</a></button>
+    <div class="project-header">
+      <span class="triangle" onclick="toggleDetails(this)">▶</span>
+      <span class="project-title">Algorithmic Graph Theory: Hypergraphic Degree Sequences</span>
+    </div>
     <div class="details" style="display: none;">
-      <p>Short description of the second research project. This is a two-sentence blurb that explains what the project is about.</p>
+      <p> We studied the <i>degree sequence graphicality</i> problem for 3-uniform hypergraphs, which asks whether a given degree sequence is realized by a 3-uniform hypergraph. I worked on this project with Prof. István Miklós (Rényi Institute) and two other students while at the Budapest Semesters in Mathematics. </p>
     </div>
   </div>
-  <!-- Project 3 -->
   <div class="project">
-    <button class="toggle" onclick="toggleDetails(this)">Quantum Computing; Space-Depth Tradeoffs in Hamiltonian Simulation Circuits<a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[View Paper]</a></button>
+    <div class="project-header">
+      <span class="triangle" onclick="toggleDetails(this)">▶</span>
+      <span class="project-title">Quantum Computing; Space-Depth Tradeoffs in Hamiltonian Simulation Circuits</span>
+    </div>
     <div class="details" style="display: none;">
-      <p>Short description of the third research project. This is a two-sentence blurb that explains what the project is about.</p>
+      <p>Short description of the first research project. This is a two-sentence blurb that explains what the project is about.</p>
     </div>
   </div>
+  <!-- Repeat for other projects -->
 </div>
+
 <script>
-  function toggleDetails(button) {
-    const details = button.nextElementSibling;
-    if (details.style.display === "none") {
-      details.style.display = "block";
+  function toggleDetails(triangle) {
+    const details = triangle.parentElement.nextElementSibling; // Get the details section
+    const isOpen = details.style.display === "block";
+
+    // Toggle details visibility
+    details.style.display = isOpen ? "none" : "block";
+
+    // Rotate the triangle
+    if (isOpen) {
+      triangle.classList.remove("open");
     } else {
-      details.style.display = "none";
+      triangle.classList.add("open");
     }
   }
 </script>
