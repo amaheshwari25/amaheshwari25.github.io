@@ -1,65 +1,43 @@
 ---
-layout: page
+layout: default
 title: Research Experience
 permalink: /research/
-description: Summaries of my primary research experience in college. 
+description: Summaries of my primary research experiences in college. 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div class="projects-container">
+  <!-- Project 1 -->
+  <div class="project">
+    <button class="toggle" onclick="toggleDetails(this)">Algorithmic Game Theory: Matroid Prophet Inequalities <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[View Paper]</a></button>
+    <div class="details" style="display: none;">
+      <p>Short description of the first research project. This is a two-sentence blurb that explains what the project is about.</p>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+  <!-- Project 2 -->
+  <div class="project">
+    <button class="toggle" onclick="toggleDetails(this)">Algorithmic Graph Theory: Hypergraphic Degree Sequences <a href="link-to-paper" target="_blank">[View Paper]</a></button>
+    <div class="details" style="display: none;">
+      <p>Short description of the second research project. This is a two-sentence blurb that explains what the project is about.</p>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
+  <!-- Project 3 -->
+  <div class="project">
+    <button class="toggle" onclick="toggleDetails(this)">Quantum Computing; Space-Depth Tradeoffs in Hamiltonian Simulation Circuits<a href="link-to-paper" target="_blank">[View Paper]</a></button>
+    <div class="details" style="display: none;">
+      <p>Short description of the third research project. This is a two-sentence blurb that explains what the project is about.</p>
+    </div>
   </div>
-  {% endif %}
-{% endif %}
 </div>
+<script>
+  function toggleDetails(button) {
+    const details = button.nextElementSibling;
+    if (details.style.display === "none") {
+      details.style.display = "block";
+    } else {
+      details.style.display = "none";
+    }
+  }
+</script>
