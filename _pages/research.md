@@ -18,14 +18,14 @@ horizontal: false
   </div>
   <!-- Project 2 -->
   <div class="project">
-    <button class="toggle" onclick="toggleDetails(this)">Algorithmic Graph Theory: Hypergraphic Degree Sequences <a href="link-to-paper" target="_blank">[View Paper]</a></button>
+    <button class="toggle" onclick="toggleDetails(this)">Algorithmic Graph Theory: Hypergraphic Degree Sequences <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[View Paper]</a></button>
     <div class="details" style="display: none;">
       <p>Short description of the second research project. This is a two-sentence blurb that explains what the project is about.</p>
     </div>
   </div>
   <!-- Project 3 -->
   <div class="project">
-    <button class="toggle" onclick="toggleDetails(this)">Quantum Computing; Space-Depth Tradeoffs in Hamiltonian Simulation Circuits<a href="link-to-paper" target="_blank">[View Paper]</a></button>
+    <button class="toggle" onclick="toggleDetails(this)">Quantum Computing; Space-Depth Tradeoffs in Hamiltonian Simulation Circuits<a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[View Paper]</a></button>
     <div class="details" style="display: none;">
       <p>Short description of the third research project. This is a two-sentence blurb that explains what the project is about.</p>
     </div>
