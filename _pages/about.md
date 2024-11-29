@@ -18,13 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a senior studying CS and math at Princeton University, where I'm lucky to be advised by [Matt Weinberg](https://www.cs.princeton.edu/~smattw/). 
+I am a senior studying CS and math at Princeton University, where I'm very lucky to be advised by [Matt Weinberg](https://www.cs.princeton.edu/~smattw/). 
 
 My research interests are broadly in <b>theoretical computer science</b>, with a focus on algorithm design under incentives, uncertainty, and other interesting models. 
 
 My main research experience has been in [algorithmic game theory & mechanism design](research.md/#project-matroids), where I've been working on matroid prophet inequalities and approximately optimal auction mechanisms. Previously, I've also done some work in [algorithmic graph theory](research.md/#project-graphs) with István Miklós (Rényi Institute of Mathematics) and [quantum computing](research.md/#project-qc) with Ali Javadi-Abhari (IBM Research). 
 
-While at Princeton, I've been grateful to have received the <b>Goldwater Scholarship</b>, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence. 
+I'm grateful to have received the <b>Goldwater Scholarship</b>, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence while at Princeton. 
 
 Here's my [CV](../assets/pdf/CV_AryaMaheshwari.pdf). You can reach me at arya (at) princeton (dot) edu! 
 
