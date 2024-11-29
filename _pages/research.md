@@ -4,7 +4,7 @@ title: Research Experience
 permalink: /research/
 description: Summaries of my primary research experiences in college. 
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---

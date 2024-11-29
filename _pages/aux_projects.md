@@ -4,7 +4,7 @@ title: Miscellaneous Projects
 permalink: /projects/
 description: Here's a list of some miscellaneous projects I've worked on in college. 
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
