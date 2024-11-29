@@ -22,7 +22,7 @@ I am a senior studying CS and math at Princeton University, where I'm lucky to b
 
 My research interests are broadly in <b>theoretical computer science</b>, with a focus on algorithm design under incentives, uncertainty, and other interesting models. 
 
-My main research experience has been in algorithmic game theory and mechanism design, where I've been working on [matroid prophet inequalities](research/#project-matroids) and approximately optimal auction mechanisms. Previously, I've also done some work in [algorithmic graph theory](research/#project-graphs) with István Miklós (Rényi Institute of Mathematics) and [quantum computing](research/#project-qc) with Ali Javadi-Abhari (IBM Research). 
+My main research experience has been in [algorithmic game theory & mechanism design](research.md/#project-matroids), where I've been working on matroid prophet inequalities and approximately optimal auction mechanisms. Previously, I've also done some work in [algorithmic graph theory](research.md/#project-graphs) with István Miklós (Rényi Institute of Mathematics) and [quantum computing](research.md/#project-qc) with Ali Javadi-Abhari (IBM Research). 
 
 While at Princeton, I've been grateful to have received the <b>Goldwater Scholarship</b>, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence. 
 
