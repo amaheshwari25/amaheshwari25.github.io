@@ -24,9 +24,11 @@ My research interests are broadly in <b>theoretical computer science</b>, with a
 
 My main research experience has been in algorithmic game theory and mechanism design, where I've been working on matroid prophet inequalities and approximately optimal auction mechanisms. I've also done some work in algorithmic graph theory and quantum computing before that, under the wonderful mentorship of István Miklós (Rényi Institute) and Ali Javadi-Abhari (IBM Research). 
 
-While at Princeton, I've been grateful to have received the Goldwater Scholarship, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence. 
+While at Princeton, I've been grateful to have received the <b>Goldwater Scholarship</b>, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence. 
 
 You can reach me at arya (at) princeton (dot) edu! 
+
+[randompdf](assets/pdf/example_pdf.pdf)
 
 <!-- , though I've also done some work in   . While at Princeton, I've been grateful to be receive 
 
