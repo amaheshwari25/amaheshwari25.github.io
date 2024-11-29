@@ -28,7 +28,7 @@ While at Princeton, I've been grateful to have received the <b>Goldwater Scholar
 
 You can reach me at arya (at) princeton (dot) edu! 
 
-[randompdf](assets/pdf/example_pdf.pdf)
+[randompdf](../assets/pdf/example_pdf.pdf)
 
 <!-- , though I've also done some work in   . While at Princeton, I've been grateful to be receive 
 
