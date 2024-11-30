@@ -8,7 +8,7 @@ profile:
   align: right
   image: arya_headshot.png
   image_circular: false # crops the image to make it circular
-  more_info: arya@princeton.edu 
+  more_info: arya (at) princeton (dot) edu 
     # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
