@@ -19,7 +19,7 @@ horizontal: false
     <div class="details" style="display: none;">
       <p>I've worked on two main projects in this area with Prof. Matt Weinberg.</p>
       <!-- <br style="line-height:5px;"/> -->
-      <h5> <b>Junior Paper: Matroid Prophet Inequalities</b> </h5>
+      <h5> <b>Junior Paper: Matroid Prophet Inequalities</b> <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[link]</a></h5>
       <p> For my Junior Paper at Princeton, I studied new lower bound constructions for the <i> matroid intersection 
       </i> prophet inequality problem. Prophet inequalities are a class of online selection problems that ask how well an agent choosing online from a sequence of items, under some set of feasibility constraints, can approximate the offline optimal feasible subset of items. 
       <!-- The <i> approximation ratio </i> is the ratio of the offline optimal value to what the online agent can achieve, and the goal in a prophet inequality is to determine how large this can be. --> 
