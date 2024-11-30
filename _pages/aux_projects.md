@@ -2,7 +2,7 @@
 layout: page
 title: Miscellaneous Projects
 permalink: /projects/
-description: Here's a list of some miscellaneous projects I've worked on in college. 
+description: Here's a list of some miscellaneous projects I've worked on. 
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -58,6 +58,16 @@ horizontal: false
     </div>
     <div class="details" style="display: none;">
       <p> Investigated recent natural language proof generation model through two ablation studies (COS484 final project). </p>
+    </div>
+  </div>
+  <br>
+  <div class="project">
+    <div class="project-header" id="project-qc">
+      <span class="triangle" onclick="toggleDetails(this)">▶</span>
+      <span class="project-title"><b> 6. High School Astrophysics Research </b> </span>
+    </div>
+    <div class="details" style="display: none;">
+      <p> Worked on research projects on stellar stream formation (with Princeton faculty and NASA Advanced Supercomputing scientists); supernova light-curve modeling (Yale Summer Program in Astrophysics); and rare star classification (UC Santa Cruz). Papers published in <a href="https://emerginginvestigators.org/articles/photometric-analysis-and-light-curve-modeling-of-apparent-transient-2020pni">Harvard JEI</a>; in submission to the Astrophysical Journal. Presentations at <a href="http://meetings.aps.org/Meeting/FWS20/Session/L01.1233rd"> AAS Meeting</a> and <a href="http://meetings.aps.org/Meeting/FWS20/Session/L01.1">2020 APS Meeting</a> (first-author). </p>
     </div>
   </div>
   <!-- Repeat for other projects -->
