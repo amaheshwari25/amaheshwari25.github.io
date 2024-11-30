@@ -67,7 +67,7 @@ horizontal: false
       <span class="project-title"><b> 6. High School Astrophysics Research </b> </span>
     </div>
     <div class="details" style="display: none;">
-      <p> Worked on research projects on stellar stream formation (with Princeton faculty and NASA Advanced Supercomputing scientists); supernova light-curve modeling (Yale Summer Program in Astrophysics); and rare star classification (UC Santa Cruz). Papers published in <a href="https://emerginginvestigators.org/articles/photometric-analysis-and-light-curve-modeling-of-apparent-transient-2020pni">Harvard JEI</a>; in submission to the Astrophysical Journal. Presentations at <a href="http://meetings.aps.org/Meeting/FWS20/Session/L01.1233rd"> AAS Meeting</a> and <a href="http://meetings.aps.org/Meeting/FWS20/Session/L01.1">2020 APS Meeting</a> (first-author). </p>
+      <p> Worked on research projects on stellar stream formation (with Princeton faculty and NASA Advanced Supercomputing scientists); supernova light-curve modeling (Yale Summer Program in Astrophysics); and rare star classification (UC Santa Cruz). Papers published in <a href="https://emerginginvestigators.org/articles/photometric-analysis-and-light-curve-modeling-of-apparent-transient-2020pni">Harvard JEI</a>; in submission to the Astrophysical Journal. Presentations at <a href="http://adsabs.harvard.edu/abs/2019AAS...23337101M"> 233rd AAS Meeting</a> and <a href="http://meetings.aps.org/Meeting/FWS20/Session/L01.1">2020 APS Meeting</a> (first-author). </p>
     </div>
   </div>
   <!-- Repeat for other projects -->
