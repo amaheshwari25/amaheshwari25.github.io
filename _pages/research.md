@@ -17,7 +17,7 @@ horizontal: false
       <span class="project-title">Algorithmic Game Theory: Matroid Prophet Inequalities <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[paper]</a></span>
     </div>
     <div class="details" style="display: none;">
-      <p>Short description of the first research project. This is a two-sentence blurb that explains what the project is about.</p>
+      <p>- Junior paper under Matt Weinberg on lower bound constructions for the <i> matroid intersection </i> prophet inequality problem. Current senior thesis on improving sample complexity of reductions to truthful auction mechanisms for an additive buyer.</p>
     </div>
   </div>
   <div class="project">
