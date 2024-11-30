@@ -24,7 +24,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-graphs">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title"><b> 2. Incentive Compatible AMMs in Binary Prediction Markets </b> <a href="../assets/pdfCOS473_Paper.pdf" target="_blank">[paper]</a> <a href="../assets/pdfCOS473_Poster.pdf" target="_blank">[poster]</a></span>
+      <span class="project-title"><b> 2. Incentive Compatible AMMs in Binary Prediction Markets </b> <a href="../assets/pdf/COS473_Paper.pdf" target="_blank">[paper]</a> <a href="../assets/pdf/COS473_Poster.pdf" target="_blank">[poster]</a></span>
     </div>
     <div class="details" style="display: none;">
     <p> Theoretical study and simulations of <i> liquidity-sensitive </i> market scoring rule implemented in automated market makers (COS473 final project). Won Outstanding Poster award at Princeton’s 2023 DeCenter Conference on blockchains.</p>
@@ -54,7 +54,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-qc">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title"><b> 5. Applying GPT-3 and Dense Embeddings to NLProofS  </b> <a href="../assets/pdfCOS484_Paper.pdf" target="_blank">[paper]</a> <a href="../assets/pdfCOS484_Poster.pdf" target="_blank">[poster]</a></span>
+      <span class="project-title"><b> 5. Applying GPT-3 and Dense Embeddings to NLProofS  </b> <a href="../assets/pdf/COS484_Paper.pdf" target="_blank">[paper]</a> <a href="../assets/pdf/COS484_Poster.pdf" target="_blank">[poster]</a></span>
     </div>
     <div class="details" style="display: none;">
       <p> Investigated recent natural language proof generation model through two ablation studies (COS484 final project). </p>
