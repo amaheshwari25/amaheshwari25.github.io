@@ -14,7 +14,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title"><b> 1. Combinatorial BMM </b> <a href="../assets/pdf/CombinatorialBMM.pdf" target="_blank">[paper]</a></span>
+      <span class="project-title"><b> 1. Combinatorial BMM </b> <a href="../assets/pdf/CombinatorialBMM_Survey.pdf" target="_blank">[paper]</a></span>
     </div>
     <div class="details" style="display: none;">
     <p> Survey of recent breakthrough in fine-grained complexity on combinatorial boolean matrix multiplication. Final project for COS521: Advanced Algorithm Design (Graduate) with Huacheng Yu. </p>
