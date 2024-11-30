@@ -20,7 +20,6 @@ horizontal: false
     <p> Survey of recent breakthrough in fine-grained complexity on combinatorial boolean matrix multiplication. Final project for COS521: Advanced Algorithm Design (Graduate) with Huacheng Yu. </p>
     </div>
   </div>
-  <br>
   <div class="project">
     <div>
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
@@ -30,7 +29,6 @@ horizontal: false
     <p> Theoretical study and simulations of <i> liquidity-sensitive </i> market scoring rule implemented in automated market makers (COS473 final project). Won Outstanding Poster award at Princeton’s 2023 DeCenter Conference on blockchains.</p>
     </div>
   </div>
-  <br>
   <div class="project">
     <div>
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
@@ -40,7 +38,6 @@ horizontal: false
       <p> Studied Spielman’s manuscript and worked on computational project on Graph Hot Spots Conjecture with PhD student mentor.</p>
     </div>
   </div>
-  <br>
   <div class="project">
     <div>
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
@@ -50,7 +47,6 @@ horizontal: false
       <p> Developed a full Python pipeline for using variational quantum algorithms (QAOA) to generate thermal states with Dr. Esin Tureci and Dr. Teague Tomesh. Also worked on quantum machine learning project, focused on testing the efficacy of quantum kernel methods (COS396 final project), and placed 2nd in Princeton Qiskit 2022 Fall Fest focused on quantum search (Grover's Algorithm). </p>
     </div>
   </div>
-  <br>
   <div class="project">
     <div>
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
@@ -60,7 +56,6 @@ horizontal: false
       <p> Investigated recent natural language proof generation model through two ablation studies (COS484 final project). </p>
     </div>
   </div>
-  <br>
   <div class="project">
     <div>
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
