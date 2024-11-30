@@ -17,14 +17,15 @@ horizontal: false
       <span class="project-title">1. Algorithmic Game Theory & Mechanism Design <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[paper]</a></span>
     </div>
     <div class="details" style="display: none;">
-      I've worked on two main projects in this area with Prof. Matt Weinberg.
-      <br style="line-height:5px;"/>
-      <h6> <b>Junior Paper: Matroid Prophet Inequalities</b> </h6>
+      <p>I've worked on two main projects in this area with Prof. Matt Weinberg.</p>
+      <!-- <br style="line-height:5px;"/> -->
+      <h5> <b>Junior Paper: Matroid Prophet Inequalities</b> </h5>
       <p> For my Junior Paper at Princeton, I studied new lower bound constructions for the <i> matroid intersection 
       </i> prophet inequality problem. Prophet inequalities are a class of online selection problems that ask how well an agent choosing online from a sequence of items, under some set of feasibility constraints, can approximate the offline optimal feasible subset of items. 
       <!-- The <i> approximation ratio </i> is the ratio of the offline optimal value to what the online agent can achieve, and the goal in a prophet inequality is to determine how large this can be. --> 
-      The prophet inequality for matroid intersection constraints is a decade-old open problem, with an asymptotic gap between linear upper bounds and roughly-square-root lower bounds on the approximation ratio, and what's especially intriguing is that the existing lower bound construction satisfies many special conditions that need not hold in general—yet no alternate constructions have been explored.
-      <br style="line-height:3px;"/>
+      The prophet inequality for matroid intersection constraints is a decade-old open problem, with an asymptotic gap between linear upper bounds and roughly-square-root lower bounds on the approximation ratio, and what's especially intriguing is that the existing lower bound construction satisfies many special conditions that need not hold in general—yet no alternate constructions have been explored.</p> 
+      <!-- <br style="line-height:3px;"/> -->
+      <p>
       My research thus focused on investigating whether new generalization of the existing construction could improve the lower bound, leveraging tools from combinatorics, probability, and linear algebra given the diverse characterizations of matroids. I proved a number of new results that <i> rule out </i>  generalizations and new constructions from improving the lower bound, providing new insights into the substructure of the existing hardness construction and narrowing down which directions are most promising for the future.
       </p> 
       <h5> <b> Senior Thesis: Sample Complexity of the ε-BIC-to-BIC Reduction </b> </h5>
