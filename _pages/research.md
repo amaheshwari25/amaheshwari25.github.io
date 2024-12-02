@@ -14,7 +14,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">1. Algorithmic Game Theory & Mechanism Design <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[paper]</a></span>
+      <span class="project-title">1. Algorithmic Game Theory & Mechanism Design <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[report]</a></span>
     </div>
     <div class="details" style="display: none;">
       <p>I've worked on two main projects in this area with Prof. Matt Weinberg.</p>
@@ -35,11 +35,11 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-graphs">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">2. Algorithmic Graph Theory: Hypergraphic Degree Sequences</span>
+      <span class="project-title">2. Algorithmic Graph Theory: Hypergraphic Degree Sequences <a href="https://arxiv.org/abs/2411.19049" target="_blank">[arXiv]</a></span>
     </div>
     <div class="details" style="display: none;">
       <p> I worked on this project with Prof. István Miklós (Rényi Institute) and two other students while at the Budapest Semesters in Mathematics. We studied the <i>degree sequence graphicality</i> problem for 3-uniform hypergraphs, which asks whether a given degree sequence is realized by a 3-uniform hypergraph. We proved a <i> dichotomy theorem </i> on the complexity of this decision problem over all possible degree intervals, showing that the problem is either solvable in linear time (very easily) or NP-complete (and characterizing exactly when each case happens).</p>
-      <p><b>Publication</b>: In submission to Journal of Combinatorial Theory. Upcoming presentation at Joint Mathematics Meeting 2025.</p>
+      <p><b>Publication</b>: In submission to Journal of Combinatorial Theory. Upcoming presentation at Joint Mathematics Meeting 2025. Preprint on arXiv <a href="https://arxiv.org/abs/2411.19049" target="_blank">here</a></p>
     </div>
   </div>
   <div class="project">
