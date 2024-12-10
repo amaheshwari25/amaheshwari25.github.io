@@ -26,7 +26,7 @@ My main research experience has been in [algorithmic game theory & mechanism des
 
 I'm grateful to have received the <b>Goldwater Scholarship</b>, Freshman First Honor Prize, and Shapiro Prize for Academic Excellence while at Princeton. 
 
-In my free time, I'm usually playing badminton, running late to dance practice, or finding spots for stargazing. 
+In my free time, I'm usually playing badminton, running late to dance practice, or finding spots to stargaze. 
 
 Here's my [CV](../assets/pdf/CV_AryaMaheshwari.pdf). You can reach me at arya (at) princeton (dot) edu! 
 
