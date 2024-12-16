@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: arya_headshot.png
+  image: portrait2.png
   image_circular: false # crops the image to make it circular
   more_info: arya at princeton dot edu 
     # <p>555 your office number</p>
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a senior studying CS and math at Princeton University, where I'm very lucky to be advised by [Matt Weinberg](https://www.cs.princeton.edu/~smattw/). 
+Hi! I'm Arya. I am a senior studying CS and math at Princeton University, where I'm very lucky to be advised by [Matt Weinberg](https://www.cs.princeton.edu/~smattw/). 
 
 My research interests are broadly in <b>theoretical computer science</b>, with a focus on algorithm design under incentives, uncertainty, and other interesting models. 
 
