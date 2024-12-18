@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: portrait2.png
+  image: arya_headshot.png
   image_circular: false # crops the image to make it circular
   more_info: arya at princeton dot edu 
     # <p>555 your office number</p>
