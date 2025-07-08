@@ -28,8 +28,8 @@ horizontal: false
       <p>
       My research thus focused on investigating whether new generalization of the existing construction could improve the lower bound, leveraging tools from combinatorics, probability, and linear algebra given the diverse characterizations of matroids. I proved a number of new results that <i> rule out </i>  generalizations and new constructions from improving the lower bound, providing new insights into the substructure of the existing hardness construction and narrowing down which directions are most promising for the future.
       </p> 
-      <h5> <b> Senior Thesis: Sample Complexity of the ε-BIC-to-BIC Reduction </b> </h5>
-      <p> I'm now working on a senior thesis on improving the sample complexity of the so-called <i> ε-truthful-to-truthful reduction</i> in auction mechanisms for additive buyers, where truthfulness here means <i> Bayesian incentive compatible </i> (BIC). We are developing a more clever version of the existing <i> replica-surrogate </i> bipartite matching procedure, which currently requires exponentially many samples from the input distributions, that will only require polynomially many samples. Roughly, our idea is to leverage concentration to show that we need only look at smaller type space of the buyers, and to integrate this with techniques from the literature on Bernoulli factories and online primal-dual algorithms to complete the reduction.</p>
+      <h5> <b> Senior Thesis: Sample Complexity of Blackbox Reductions in Mechanism Design </b> </h5>
+      <p> I'm now working on a senior thesis on improving the sample complexity of the blackbox reductions in in auction mechanisms for additive buyers. Existing reductions are based on the so-called <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. Our work shows that under additional structural assumptions (in particular, for additive buyers over independent items), we can improve to polynomial sample complexity via a new variant of replica-surrogate matching. Stay tuned for our formal results!</p>
     </div>
   </div>
   <div class="project">
