@@ -14,12 +14,12 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">1. Algorithmic Game Theory & Mechanism Design <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[report]</a></span>
+      <span class="project-title">1. Algorithmic Game Theory & Mechanism Design</span>
     </div>
     <div class="details" style="display: none;">
       <p>I've worked on two main projects in this area with Prof. Matt Weinberg.</p>
       <!-- <br style="line-height:5px;"/> -->
-      <h5> <b>Junior Paper: Matroid Prophet Inequalities</b> <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[link]</a></h5>
+      <h5> <b>Junior Paper: Matroid Prophet Inequalities</b> <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[report]</a></h5>
       <p> For my Junior Paper at Princeton, I studied new lower bound constructions for the <i> matroid intersection 
       </i> prophet inequality problem. Prophet inequalities are a class of online selection problems that ask how well an agent choosing online from a sequence of items, under some set of feasibility constraints, can approximate the offline optimal feasible subset of items. 
       <!-- The <i> approximation ratio </i> is the ratio of the offline optimal value to what the online agent can achieve, and the goal in a prophet inequality is to determine how large this can be. --> 
@@ -28,8 +28,8 @@ horizontal: false
       <p>
       My research thus focused on investigating whether new generalization of the existing construction could improve the lower bound, leveraging tools from combinatorics, probability, and linear algebra given the diverse characterizations of matroids. I proved a number of new results that <i> rule out </i>  generalizations and new constructions from improving the lower bound, providing new insights into the substructure of the existing hardness construction and narrowing down which directions are most promising for the future.
       </p> 
-      <h5> <b> Senior Thesis: Sample Complexity of Blackbox Reductions in Mechanism Design </b> </h5>
-      <p> I'm now working on a senior thesis on improving the sample complexity of the blackbox reductions in in auction mechanisms for additive buyers. Existing reductions are based on the so-called <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. Our work shows that under additional structural assumptions (in particular, for additive buyers over independent items), we can improve to polynomial sample complexity via a new variant of replica-surrogate matching. Stay tuned for our formal results!</p>
+      <h5> <b> Senior Thesis: Sample Complexity of Blackbox Reductions in Mechanism Design </b>  <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a>  <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a></h5>
+      <p> I'm now working on a senior thesis on improving the sample complexity of the blackbox reductions in in auction mechanisms for additive buyers. Existing reductions are based on the so-called <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. Our work shows that under additional structural assumptions (in particular, for additive buyers over independent items), we can improve to polynomial sample complexity via a new variant of replica-surrogate matching. Stay tuned for a paper on our formal results!</p>
     </div>
   </div>
   <div class="project">
