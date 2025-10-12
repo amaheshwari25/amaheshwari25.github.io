@@ -9,6 +9,19 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<h4> Papers </h4>
+<small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
+
+
+1. <b> AM </b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. Poster presentation at EC'25.
+
+2. <b> AM </b>, E. Shi. <i> Oblivious, External-Memory Single-Source Shortest Paths. </i> In preparation.
+
+3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics </i>. Presentation at Joint Mathematics Meetings (<i>JMM'25</i>).
+
+<h4> Project Summaries </h3>
+
+
 <div class="projects-container">
   <!-- Project 1 -->
   <div class="project">
@@ -32,6 +45,8 @@ horizontal: false
       <p> I'm now working on a senior thesis on improving the sample complexity of the blackbox reductions in in auction mechanisms for additive buyers. Existing reductions are based on the so-called <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. Our work shows that under additional structural assumptions (in particular, for additive buyers over independent items), we can improve to polynomial sample complexity via a new variant of replica-surrogate matching. Stay tuned for a paper on our formal results!</p>
     </div>
   </div>
+
+
   <div class="project">
     <div class="project-header" id="project-graphs">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
