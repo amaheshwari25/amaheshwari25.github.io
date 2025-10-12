@@ -17,7 +17,7 @@ horizontal: false
 
 2. <b>AM</b>, Elaine Shi. <i> Oblivious, External-Memory Single-Source Shortest Paths. </i> In preparation.
 
-3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics </i>. Presentation at Joint Mathematics Meetings (JMM'25).
+3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25).
 
 <h4> Project Summaries </h4>
 
@@ -48,7 +48,7 @@ horizontal: false
       The prophet inequality for <i> matroid intersection </i> constraints is a decade-old open problem, with an asymptotic gap between linear upper bounds and roughly-square-root lower bounds on the approximation ratio, and what's especially intriguing is that the existing lower bound construction satisfies many special conditions that need not hold in general—yet no alternate constructions have been explored.</p> 
       <!-- <br style="line-height:3px;"/> -->
       <p>
-      My research focused on studying whether new generalization of the existing construction could improve the lower bound. I proved a couple new results that <i> rule out </i>  some classes of constructions from improving the lower bound. For instance, I showed that partition matroids are optimal for expressing the existing lower bound construction -- we can't hope to improve it by generalizing to arbitrary matroids. This particular result completes the reverse direction of a reduction in a <a href="https://arxiv.org/pdf/2209.05614"> 2022 paper </a> to show an <i>equivalence</i> between the current lower bound construction ad graph-theoretic product dimension bounds.</p>
+      My research focused on studying whether new generalization of the existing construction could improve the lower bound. I proved a couple new results that <i> rule out </i>  some classes of constructions from improving the lower bound. For instance, I showed that partition matroids are optimal for expressing the existing lower bound construction -- we can't hope to improve it by generalizing to arbitrary matroids. This particular result completes the reverse direction of a reduction in a <a href="https://arxiv.org/pdf/2209.05614"> 2022 paper </a> to show an <i>equivalence</i> between the current lower bound construction and graph-theoretic product dimension bounds.</p>
       <p>
       I worked on this project for my Junior Paper at Princeton, advised by Matt Weinberg. </p>
     </div>
