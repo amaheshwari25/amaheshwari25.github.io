@@ -24,7 +24,7 @@ Hi! I recently graduated from Princeton CS in May 2025, where I was fortunate to
 
 <b> Funding: </b>  I’m a NSF GRFP recipient, currently on Reserve status (i.e. have full fellowship funding remaining, for use in ‘26-‘27 onwards).
 
-I’m grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top student in the CS department at Princeton](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates)), as well as the Goldwater Scholarship as an undergraduate. 
+I’m grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top student in the CS department at Princeton](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates)), as well as the Goldwater Scholarship, as an undergraduate. 
 
 Other stuff I enjoy: In my free time, I’m usually playing badminton, running late to dance practice, or convincing my friends to play foosball with me. I very much enjoy talking to people, about research or otherwise — please reach out!
 
