@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: arya at princeton dot edu 
+  more_info: arya at cs.cmu.edu
     # <p>555 your office number</p>
     # <p>123 your address street</p>
     # <p>Your City, State 12345</p>
@@ -18,6 +18,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Hi! I recently graduated from Princeton CS in May 2025, where I was fortunate to be advised by Matt Weinberg. I’m currently a MSCS student at CMU, where I’m lucky to be working with Elaine Shi. 
+
+<b> Research: </b> My research interests are broadly in theoretical computer science. So far, I’ve enjoyed working on algorithmic mechanism design and algorithms under uncertainty (with Matt Weinberg), and I’m currently working on oblivious algorithms (with Elaine Shi). See [here](research) for more about the research I've worked on. 
+
+<b> Funding: </b>  I’m a NSF GRFP recipient, currently on Reserve status (i.e. have full fellowship funding remaining, for use in ‘26-‘27 onwards).
+
+I’m grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top student in the CS department at Princeton](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates)), as well as the Goldwater Scholarship as an undergraduate. 
+
+Other stuff I enjoy: In my free time, I’m usually playing badminton, running late to dance practice, or convincing my friends to play foosball with me. I very much enjoy talking to people, about research or otherwise — please reach out!
+
+
+
+
+<!--
 Hi! I am a senior studying CS and math at Princeton University, where I'm very lucky to be advised by [Matt Weinberg](https://www.cs.princeton.edu/~smattw/). 
 
 My research interests are broadly in <b>theoretical computer science</b>, with a focus on algorithm design under uncertainty, incentives, and other interesting models. 
@@ -26,7 +40,7 @@ My main research experience has been in [algorithms under uncertainty and algori
 
 I'm grateful to have received the <b>NSF GRFP</b>, <b>Goldwater Scholarship</b>, Freshman First Honor Prize, Phi Beta Kappa, and Shapiro Prize for Academic Excellence while at Princeton. 
 
-In my free time, I'm usually playing badminton or running late to dance practice. You can reach me at arya at princeton dot edu!
+In my free time, I'm usually playing badminton or running late to dance practice. You can reach me at arya at princeton dot edu! -->
 
 <!-- Here's my [CV](../assets/pdf/CV_AryaMaheshwari.pdf). -->  
 
