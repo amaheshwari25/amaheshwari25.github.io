@@ -22,9 +22,7 @@ Hi! I recently graduated from Princeton CS in May 2025, where I was fortunate to
 
 <b> Research: </b> My research interests are broadly in <b>theoretical computer science</b>. I’ve enjoyed working on algorithmic mechanism design and algorithms under uncertainty (with Matt Weinberg) and am currently working on oblivious algorithms (with Elaine Shi). See [here](research) for more about the research I've worked on. 
 
-<b> Funding: </b>  I’m a <b>NSF GRFP</b> recipient, currently on Reserve status (full fellowship funding remaining, for use in ‘26-‘27 onwards).
-
-I’m also grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top student](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates) in the CS department at Princeton) and the Goldwater Scholarship as an undergraduate. 
+<b> Funding: </b>  I’m a <b>NSF GRFP</b> recipient, currently on Reserve status (full fellowship funding remaining, for use in ‘26-‘27 onwards). I’m also grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top student](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates) in the CS department at Princeton) and the Goldwater Scholarship as an undergraduate. 
 
 In my free time, I’m usually playing badminton, running late to dance practice, or convincing my friends to play foosball with me. I very much enjoy talking to people, about research or otherwise — please reach out!
 
