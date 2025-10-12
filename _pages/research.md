@@ -67,7 +67,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-qc">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">4. Space-Depth Tradeoffs in Parity Synthesis in Quantum Computing</span>
+      <span class="project-title">4. Space-Depth Tradeoffs in Parity Synthesis in Quantum Computing <a href="../assets/pdf/IBM_PACM_Paper.pdf" target="_blank">[report]</a> <a href="../assets/pdf/PACMPresentation.pdf" target="_blank">[slides]</a></span>
     </div>
     <div class="details" style="display: none;">
       <p> I worked on research and implementations for new quantum compilation algorithms at IBM Quantum with Dr. Ali Javadi-Abhari. I proved a new result on the <i>space-depth tradeoff</i> between additional qubits and additional depth in parity synthesis for Hamiltonian simulation circuits. Specifically, I devised a new algorithmic framework for extending the block algorithm of <a href="https://arxiv.org/pdf/2201.06380">de Brugière et al.</a> in a way that enables finer-grained control of the space-depth tradeoff than previously possible, by leveraging additional ancilla to proportionally parallelize the existing computations.</p>
