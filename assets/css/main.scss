@@ -44,8 +44,8 @@ $max-content-width: {{ site.max_width }};
 .project-header {
   display: flex;
   align-items: center;
-  font-size: 1.2rem; /* Adjust font size for titles */
-  font-weight: bold;
+  font-size: 1.1rem; /* Adjust font size for titles */
+  font-weight: 500;
   cursor: pointer;
 }
 
