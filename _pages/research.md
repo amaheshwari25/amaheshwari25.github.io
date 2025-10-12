@@ -2,7 +2,7 @@
 layout: page
 title: Research Experience
 permalink: /research/
-description: Summaries of my primary research experiences in college. 
+description: Summaries of my primary research experiences thus far. 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
