@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I recently graduated from Princeton CS in May 2025, where I was fortunate to be advised by <b>[Matt Weinberg](https://www.cs.princeton.edu/~smattw/)</B>. I’m currently a MSCS student at CMU, where I’m lucky to be working with <b>[Elaine Shi](https://elaineshi.com/)</b>. 
+Hi! I recently graduated from Princeton CS in May 2025, where I was fortunate to be advised by <b>[Matt Weinberg](https://www.cs.princeton.edu/~smattw/)</B>. I’m currently a master's student at CMU, where I’m lucky to be working with <b>[Elaine Shi](https://elaineshi.com/)</b>. 
 
 <b> Research: </b> My research interests are broadly in <b>theoretical computer science</b>. I’ve enjoyed working on algorithmic mechanism design and algorithms under uncertainty (with Matt Weinberg) and am currently working on oblivious algorithms (with Elaine Shi). See [here](research) for more about the research I've worked on. 
 
