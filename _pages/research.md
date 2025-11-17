@@ -35,7 +35,7 @@ horizontal: false
       <p> Our work focuses on improving the sample complexity of blackbox reductions from mechanism design to algorithm design (in particular, the so-called epsilon-BIC-to-BIC reduction). Existing reductions are based on the <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. </p>
       <p> We show that under some natural structural assumptions (independent items, and a Lipschitz-ness condition on valuation functions), we can improve the sample complexity to <i> polynomial </i> in the relevant parameters. <b> This resolves the central open question from a <a href="https://arxiv.org/pdf/1808.02458">FOCS'18 paper</a></b>. Our mechanism is based on a new variant of replica-surrogate matching, and our analysis uses concentration specific to product distributions as well as a few neat tricks to handle small errors and failure probabilities. 
       </p>
-      <p> I worked on this project for my senior thesis at Princeton, advised by Prof. Matt Weinberg and Eric Xue. Stay tuned for a paper on our results! Meanwhile, you can check out slides from my thesis talk and a poster from EC'25 (both with a preliminary version of our current results) here: <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a> and <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a>.</p>
+      <p> I worked on this project for my senior thesis at Princeton, advised by Prof. Matt Weinberg and Eric Xue. Stay tuned for a paper on our results! Meanwhile, slides from my thesis talk and a poster from EC'25 (both with a preliminary version of our current results) are available here: <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a> and <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>.</p>
     </div>
   </div>
 
@@ -79,11 +79,11 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-qc">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">5. Space-Depth Tradeoffs in Parity Synthesis in Quantum Computing <a href="../assets/pdf/IBM_PACM_Paper.pdf" target="_blank">[report]</a> <a href="../assets/pdf/PACMPresentation.pdf" target="_blank">[slides]</a></span>
+      <span class="project-title">5. Space-Depth Tradeoffs in Parity Synthesis in Quantum Computing <a href="../assets/pdf/IBM_PACM_Paper.pdf" target="_blank">[report]</a> </span>
     </div>
     <div class="details" style="display: none;">
       <p> This project consisted of research and software implementations for new quantum compilation algorithms. I proved a new result on the <i>space-depth tradeoff</i> between additional qubits and additional depth in parity synthesis for Hamiltonian simulation circuits. Specifically, I devised a new algorithmic framework for extending the block algorithm of <a href="https://arxiv.org/pdf/2201.06380">de Brugière et al.</a> in a way that enables finer-grained control of the space-depth tradeoff than previously possible, by leveraging additional ancilla to proportionally parallelize the existing computations.</p>
-      <p>I worked on this project as a quantum computing intern at IBM Research in 2023, mentored by Dr. Ali Javadi-Abhari and Dr. Simon Martiel.</p>
+      <p>I worked on this project as a quantum computing intern at IBM Research in 2023, mentored by Dr. Ali Javadi-Abhari and Dr. Simon Martiel. Slides from a short talk I gave on the theoretical framework are available here: <a href="../assets/pdf/PACMPresentation.pdf" target="_blank">[slides]</a>.</p>
       <!-- <p> <b>Publication:</b> Paper on theoretical results currently being drafted. Code used for benchmarks in another recent <a href="https://arxiv.org/pdf/2404.03280">paper</a>.</p> -->
     </div>
   </div>
