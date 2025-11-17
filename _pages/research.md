@@ -13,7 +13,7 @@ horizontal: false
 <small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
 
 
-1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br><br>Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton.<a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>
+1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton.<a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>
 
 2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission.
 
@@ -61,7 +61,7 @@ horizontal: false
       <span class="project-title">3. Oblivious SSSP in the External-Memory Setting.</span>
     </div>
     <div class="details" style="display: none;">
-      <p> Our work focuses on <i>oblivious algorithms</i>, which are a class of privacy-preserving algorithms whose memory access patterns must leak no information about secret input data. Real-world deployments of oblivious algorithms (e.g. those by Meta and Signal) usually follow an external-memory model, where the I/O cost of block transfers between external memory (i.e. some untrusted memory) and cache (i.e. a hardware enclave) becomes significant for performance. However, few algorithms that are both oblivious and external-memory-friendly are known.</p>
+      <p> <i>Oblivious algorithms</i> are a class of privacy-preserving algorithms whose memory access patterns must leak no information about secret input data. Most real-world deployments of oblivious algorithms naturally follow an external-memory model, where the I/O cost of block transfers between external memory (i.e. some untrusted memory) and cache (i.e. a hardware enclave) becomes significant for performance. However, few algorithms that are both oblivious and external-memory-friendly are known.</p>
       <p>We present an oblivious SSSP algorithm with I/O and work bounds nearly matching the non-private baseline. This is the first oblivious SSSP algorithm to achieve any non-trivial I/O cost. To bypass the polylog overhead incurred by generic oblivious RAM solutions, we designed a new oblivious graph-regularization primitive (to hide adjacency information) and strengthened existing oblivious priority queues. Our algorithm carefully intertwines these building blocks to achieve privacy---at, remarkably, almost no performance overhead!</p>
       <p>I worked on this project with Prof. Elaine Shi at CMU.</p>
     </div>
