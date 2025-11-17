@@ -17,12 +17,11 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hi! I recently completed my undergraduate studies at Princeton in May 2025, where I was fortunate to be advised by <b>[Matt Weinberg](https://www.cs.princeton.edu/~smattw/)</B>. I’m currently a master's student at CMU, where I’m lucky to be working with <b>[Elaine Shi](https://elaineshi.com/)</b>. 
 
-Hi! I recently graduated from Princeton CS in May 2025, where I was fortunate to be advised by <b>[Matt Weinberg](https://www.cs.princeton.edu/~smattw/)</B>. I’m currently a master's student at CMU, where I’m lucky to be working with <b>[Elaine Shi](https://elaineshi.com/)</b>. 
+<b> Research: </b> My research interests are in <b>theoretical computer science</b>. I’ve enjoyed working on mechanism design and algorithms under uncertainty (with Matt Weinberg) and am currently working on privacy-preserving algorithms (with Elaine Shi). See [here](research) for more about the research I've worked on. 
 
-<b> Research: </b> My research interests are broadly in <b>theoretical computer science</b>. I’ve enjoyed working on algorithmic mechanism design and algorithms under uncertainty (with Matt Weinberg) and am currently working on oblivious algorithms (with Elaine Shi). See [here](research) for more about the research I've worked on. 
-
-<b> Funding: </b>  I’m a <b>NSF GRFP</b> recipient, currently on Reserve status (full fellowship funding remaining, for use in ‘26-‘27 onwards). I’m also grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top student](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates) in the CS department at Princeton) and the Goldwater Scholarship as an undergraduate. 
+<b> Funding: </b>  I’m a <b>NSF GRFP</b> recipient, with full funding remaining for use in 2026-27 onwards (currently on reserve status). I’m also grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top CS student](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates) at Princeton) and the Goldwater Scholarship as an undergraduate. 
 
 In my free time, I’m usually playing badminton, running late to dance practice, or convincing my friends to play foosball with me. I very much enjoy talking to people, about research or otherwise — please reach out!
 
