@@ -13,13 +13,17 @@ horizontal: false
 <small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
 
 
-1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. Poster presentation at EC'25.
+1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. 
 
-2. <b>AM</b>, Elaine Shi. <i> Oblivious, External-Memory Single-Source Shortest Paths. </i> In preparation.
+Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>
 
-3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25).
+2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission.
 
+3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25). <a href="https://arxiv.org/abs/2411.19049" target="_blank">[arXiv]</a> 
+
+<br>
 <h4> Project Summaries </h4>
+<small> Click on the triangles for a quick summary of the listed projects! </small>
 
 
 <div class="projects-container">
@@ -27,7 +31,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">1. Sample Complexity for Blackbox Reductions in Mechanism Design. <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a>  <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a> </span>
+      <span class="project-title">1. Sample Complexity for Blackbox Reductions in Mechanism Design. <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a>  <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a> </span>
     </div>
     <div class="details" style="display: none;">
       <p> Our work focuses on improving the sample complexity of blackbox reductions from mechanism design to algorithm design (in particular, the so-called epsilon-BIC-to-BIC reduction). Existing reductions are based on the <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. </p>
