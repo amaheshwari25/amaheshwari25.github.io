@@ -13,7 +13,7 @@ horizontal: false
 <small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
 
 
-1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton.<a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>
+1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>
 
 2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission.
 
