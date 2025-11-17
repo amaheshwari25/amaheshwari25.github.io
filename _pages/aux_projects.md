@@ -38,7 +38,7 @@ horizontal: false
       <p> Studied Spielman’s manuscript and worked on computational project on Graph Hot Spots Conjecture with PhD student mentor.</p>
     </div>
   </div> -->
-  <div class="project">
+  <!-- <div class="project">
     <div>
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
       <span><b> Miscellaneous Quantum Computing Projects </b> </span>
@@ -46,7 +46,7 @@ horizontal: false
     <div class="details" style="display: none;">
       <p> Developed a full Python pipeline for using variational quantum algorithms (QAOA) to generate thermal states with Dr. Esin Tureci and Dr. Teague Tomesh. Also worked on quantum machine learning project, focused on testing the efficacy of quantum kernel methods (COS396 final project), and placed 2nd in Princeton Qiskit 2022 Fall Fest focused on quantum search (Grover's Algorithm). </p>
     </div>
-  </div>
+  </div> -->
   <div class="project">
     <div>
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
