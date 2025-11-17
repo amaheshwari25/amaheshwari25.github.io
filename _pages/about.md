@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi! I recently completed my undergraduate studies at Princeton in May 2025, where I was fortunate to be advised by <b>[Matt Weinberg](https://www.cs.princeton.edu/~smattw/)</B>. I’m currently a master's student at CMU, where I’m lucky to be working with <b>[Elaine Shi](https://elaineshi.com/)</b>. 
 
-<b> Research: </b> My research interests are in <b>theoretical computer science</b>. I’ve enjoyed working on mechanism design and algorithms under uncertainty (with Matt Weinberg) and am currently working on privacy-preserving algorithms (with Elaine Shi). See [here](research) for more about the research I've worked on. 
+<b> Research: </b> My research interests are in <b>theoretical computer science</b>. I’ve enjoyed working on mechanism design, algorithms under uncertainty, and privacy-preserving algorithms in my research so far: see [here](research) for more about the projects I've worked on.  
 
 <b> Funding: </b>  I’m a <b>NSF GRFP</b> recipient, with full funding remaining for use in 2026-27 onwards (currently on reserve status). I’m also grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top CS student](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates) at Princeton) and the Goldwater Scholarship as an undergraduate. 
 
