@@ -29,7 +29,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">1. Sample Complexity for Blackbox Reductions in Mechanism Design. <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a> </span>
+      <span class="project-title">1. Sample Complexity for Blackbox Reductions in Mechanism Design <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a> </span>
     </div>
     <div class="details" style="display: none;">
       <p> Our work focuses on improving the sample complexity of blackbox reductions from mechanism design to algorithm design (in particular, the so-called epsilon-BIC-to-BIC reduction). Existing reductions are based on the <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. </p>
@@ -58,7 +58,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-graphs">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">3. Oblivious SSSP in the External-Memory Setting.</span>
+      <span class="project-title">3. Oblivious SSSP in the External-Memory Setting</span>
     </div>
     <div class="details" style="display: none;">
       <p> <i>Oblivious algorithms</i> are a class of privacy-preserving algorithms whose memory access patterns must leak no information about secret input data. Most real-world deployments of oblivious algorithms naturally follow an external-memory model, where the I/O cost of block transfers between external memory (i.e. some untrusted memory) and cache (i.e. a hardware enclave) becomes significant for performance. However, few algorithms that are both oblivious and external-memory-friendly are known.</p>
