@@ -13,7 +13,7 @@ horizontal: false
 <small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
 
 
-1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>
+1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>
 
 2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission.
 
@@ -29,20 +29,30 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">1. Sample Complexity for Blackbox Reductions in Mechanism Design <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a> </span>
+      <span class="project-title">1. Sample Complexity for Blackbox Reductions in Mechanism Design <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a> </span>
     </div>
     <div class="details" style="display: none;">
       <p> Our work focuses on improving the sample complexity of blackbox reductions from mechanism design to algorithm design (in particular, the so-called epsilon-BIC-to-BIC reduction). Existing reductions are based on the <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. </p>
       <p> We show that under some natural structural assumptions (independent items, and a Lipschitz-ness condition on valuation functions), we can improve the sample complexity to <i> polynomial </i> in the relevant parameters. <b> This resolves the central open question from a <a href="https://arxiv.org/pdf/1808.02458">FOCS'18 paper</a></b>. Our mechanism is based on a new variant of replica-surrogate matching, and our analysis uses concentration specific to product distributions as well as a few neat tricks to handle small errors and failure probabilities. 
       </p>
-      <p> I worked on this project for my senior thesis at Princeton, advised by Prof. Matt Weinberg and Eric Xue. Stay tuned for a paper on our results! Meanwhile, slides from my thesis talk and a poster from EC'25 (both with a preliminary version of our current results) are available here: <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a> and <a href="../assets/pdf/EC25_Poster_with_note.pdf" target="_blank">[poster]</a>.</p>
+      <p> I worked on this project for my senior thesis at Princeton, advised by Prof. Matt Weinberg and Eric Xue. Stay tuned for a paper on our results! Meanwhile, slides from my thesis talk and a poster from EC'25 (both with a preliminary version of our current results) are available here: <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a> and <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>.</p>
     </div>
   </div>
-
+  <div class="project">
+    <div class="project-header" id="project-graphs">
+      <span class="triangle" onclick="toggleDetails(this)">▶</span>
+      <span class="project-title">2. Oblivious SSSP in the External-Memory Setting</span>
+    </div>
+    <div class="details" style="display: none;">
+      <p> <i>Oblivious algorithms</i> are a class of privacy-preserving algorithms whose memory access patterns must leak no information about secret input data. Most real-world deployments of oblivious algorithms naturally follow an external-memory model, where the I/O cost of block transfers between external memory (i.e. some untrusted memory) and cache (i.e. a hardware enclave) becomes significant for performance. However, few algorithms that are both oblivious and external-memory-friendly are known.</p>
+      <p>We present an oblivious SSSP algorithm with I/O and work bounds nearly matching the non-private baseline. This is the first oblivious SSSP algorithm to achieve any non-trivial I/O cost. To bypass the polylog overhead incurred by generic oblivious RAM solutions, we designed a new oblivious graph-regularization primitive (to hide adjacency information) and strengthened existing oblivious priority queues. Our algorithm carefully intertwines these building blocks to achieve privacy---at, remarkably, almost no performance overhead!</p>
+      <p>I worked on this project with Prof. Elaine Shi at CMU.</p>
+    </div>
+  </div>
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">2. Matroid Intersection Prophet Inequalities <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[report]</a></span>
+      <span class="project-title">3. Matroid Intersection Prophet Inequalities <a href="../assets/pdf/JP_AryaMaheshwari.pdf" target="_blank">[report]</a></span>
     </div>
     <div class="details" style="display: none;">
       <p> Prophet inequalities are a class of online selection problems that ask how well an agent choosing online from a sequence of items, under some set of feasibility constraints, can approximate the offline optimal feasible subset of items. 
@@ -53,17 +63,6 @@ horizontal: false
       My research focused on studying whether new generalization of the existing construction could improve the lower bound. I proved a couple new results that <i> rule out </i>  some classes of constructions from improving the lower bound. For instance, I showed that partition matroids are optimal for expressing the existing lower bound construction -- we can't hope to improve it by generalizing to arbitrary matroids. This particular result completes the reverse direction of a reduction in a <a href="https://arxiv.org/pdf/2209.05614"> 2022 paper </a> to show an <i>equivalence</i> between the current lower bound construction and graph-theoretic product dimension bounds.</p>
       <p>
       I worked on this project for my Junior Paper at Princeton, advised by Prof. Matt Weinberg. </p>
-    </div>
-  </div>
-  <div class="project">
-    <div class="project-header" id="project-graphs">
-      <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">3. Oblivious SSSP in the External-Memory Setting</span>
-    </div>
-    <div class="details" style="display: none;">
-      <p> <i>Oblivious algorithms</i> are a class of privacy-preserving algorithms whose memory access patterns must leak no information about secret input data. Most real-world deployments of oblivious algorithms naturally follow an external-memory model, where the I/O cost of block transfers between external memory (i.e. some untrusted memory) and cache (i.e. a hardware enclave) becomes significant for performance. However, few algorithms that are both oblivious and external-memory-friendly are known.</p>
-      <p>We present an oblivious SSSP algorithm with I/O and work bounds nearly matching the non-private baseline. This is the first oblivious SSSP algorithm to achieve any non-trivial I/O cost. To bypass the polylog overhead incurred by generic oblivious RAM solutions, we designed a new oblivious graph-regularization primitive (to hide adjacency information) and strengthened existing oblivious priority queues. Our algorithm carefully intertwines these building blocks to achieve privacy---at, remarkably, almost no performance overhead!</p>
-      <p>I worked on this project with Prof. Elaine Shi at CMU.</p>
     </div>
   </div>
   <div class="project">
