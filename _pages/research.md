@@ -15,9 +15,9 @@ horizontal: false
 
 1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>
 
-2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission.
+2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission. <a href="../assets/pdf/OSSSP_Paper.pdf" target="_blank">[manuscript]</a>
 
-3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25). <a href="https://arxiv.org/abs/2411.19049" target="_blank">[arXiv]</a> 
+3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25). <a href="https://arxiv.org/abs/2411.19049" target="_blank">[preprint]</a> 
 
 <br>
 <h4> Project Summaries </h4>
@@ -41,7 +41,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-graphs">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">2. Oblivious SSSP in the External-Memory Setting</span>
+      <span class="project-title">2. Oblivious SSSP in the External-Memory Setting <a href="../assets/pdf/OSSSP_Paper.pdf" target="_blank">[manuscript]</a></span>
     </div>
     <div class="details" style="display: none;">
       <p> <i>Oblivious algorithms</i> are a class of privacy-preserving algorithms whose memory access patterns must leak no information about secret input data. Most real-world deployments of oblivious algorithms naturally follow an external-memory model, where the I/O cost of block transfers between external memory (i.e. some untrusted memory) and cache (i.e. a hardware enclave) becomes significant for performance. However, few algorithms that are both oblivious and external-memory-friendly are known.</p>
@@ -68,7 +68,7 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-graphs">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">4. A Dichotomy Theorem for Hypergraphic Degree Sequence Graphicality <a href="https://arxiv.org/abs/2411.19049" target="_blank">[arXiv]</a></span>
+      <span class="project-title">4. A Dichotomy Theorem for Hypergraphic Degree Sequence Graphicality <a href="https://arxiv.org/abs/2411.19049" target="_blank">[preprint]</a></span>
     </div>
     <div class="details" style="display: none;">
       <p> Our work studies the <i>degree sequence graphicality</i> problem for 3-uniform hypergraphs, which asks whether a given degree sequence is realized by a 3-uniform hypergraph. We prove a <i> dichotomy theorem </i> on the complexity of this decision problem over all possible degree intervals, showing that the problem is either solvable in linear time (very easily) or NP-complete (and characterizing exactly when each case happens).</p>
