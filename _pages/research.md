@@ -2,14 +2,14 @@
 layout: page
 title: Research
 permalink: /research/
-description: Summaries of my primary research experiences thus far. 
+description: 
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<h4> Papers </h4>
+<h4> Publications </h4>
 <small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
 
 
