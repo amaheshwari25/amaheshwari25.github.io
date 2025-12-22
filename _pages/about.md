@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi! I recently completed my undergraduate studies at Princeton in May 2025, where I was fortunate to be advised by <b>[Matt Weinberg](https://www.cs.princeton.edu/~smattw/)</B>. I’m currently a master's student at CMU, where I’m lucky to be working with <b>[Elaine Shi](https://elaineshi.com/)</b>. 
 
-<b> Funding: </b>  I’m a <b>NSF GRFP</b> recipient, with full funding remaining for use in 2026-27 onwards (currently on reserve status). I’m also grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top CS student](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates) at Princeton) and the Goldwater Scholarship as an undergraduate. 
+<b> Funding: </b>  I’m a <b>NSF GRFP</b> recipient, with full funding remaining for use. I’m also grateful to have received the Phillip Goldman '86 Senior Prize in Computer Science (awarded to the [top CS student](https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates) at Princeton) and the Goldwater Scholarship as an undergraduate. 
 
 <b> Research: </b> See [here](research) for some of the projects I've worked on.  
 
