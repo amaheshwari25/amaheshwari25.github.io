@@ -13,11 +13,11 @@ horizontal: false
 <small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
 
 
-1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Polynomial Sample Complexity for Blackbox Reductions in Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>
+1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Sample-Efficient Black-box Reductions in Bayesian Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>
 
 2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission. <a href="../assets/pdf/OSSSP_Paper.pdf" target="_blank">[manuscript]</a>
 
-3. Sara Logsdon, <b> AM </b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25). <a href="https://arxiv.org/abs/2411.19049" target="_blank">[preprint]</a> 
+3. Sara Logsdon, <b>AM</b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25). <a href="https://arxiv.org/abs/2411.19049" target="_blank">[preprint]</a> 
 
 <br>
 <h4> Project Summaries </h4>
@@ -29,11 +29,11 @@ horizontal: false
   <div class="project">
     <div class="project-header" id="project-matroids">
       <span class="triangle" onclick="toggleDetails(this)">▶</span>
-      <span class="project-title">1. Sample Complexity for Blackbox Reductions in Mechanism Design <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a> </span>
+      <span class="project-title">1. Sample Complexity for Black-box Reductions in Mechanism Design <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a> </span>
     </div>
     <div class="details" style="display: none;">
       <p> Our work focuses on improving the sample complexity of blackbox reductions from mechanism design to algorithm design (in particular, the so-called epsilon-BIC-to-BIC reduction). Existing reductions are based on the <i> replica-surrogate bipartite matching </i> procedure, which requires exponentially-many samples from input distributions. </p>
-      <p> We show that under some natural structural assumptions (independent items, and a Lipschitz-ness condition on valuation functions), we can improve the sample complexity to <i> polynomial </i> in the relevant parameters. <b> This resolves the central open question from a <a href="https://arxiv.org/pdf/1808.02458">FOCS'18 paper</a></b>. Our mechanism is based on a new variant of replica-surrogate matching, and our analysis uses concentration specific to product distributions as well as a few neat tricks to handle small errors and failure probabilities. 
+      <p> We show that in the canonical setting of independent items (and a Lipschitz-ness condition on valuation functions), we can improve the sample complexity to <i> polynomial </i> in the relevant parameters. <b> This resolves the central open question from a <a href="https://arxiv.org/pdf/1808.02458">FOCS'18 paper</a></b>. Our mechanism is based on a new variant of replica-surrogate matching, and our analysis uses concentration specific to product distributions as well as a few neat tricks to handle small errors and failure probabilities. 
       </p>
       <p> I worked on this project for my senior thesis at Princeton, advised by Prof. Matt Weinberg and Eric Xue. Stay tuned for a paper on our results! Meanwhile, slides from my thesis talk and a poster from EC'25 (both with a preliminary version of our current results) are available here: <a href="../assets/pdf/Thesis_Slides.pdf" target="_blank">[slides]</a> and <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>.</p>
     </div>
