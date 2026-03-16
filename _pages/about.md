@@ -23,7 +23,7 @@ Hi! I recently completed my undergraduate studies at Princeton in May 2025, wher
 
 <b> Research: </b> See [here](research) for some of the projects I've worked on.  
 
-In my free time, I’m usually playing badminton, running late to dance practice, or convincing my friends to play foosball with me. I very much enjoy talking to people, about research or otherwise — please reach out!
+In my free time, I’m usually playing badminton, running late to dance practice, or convincing people to play foosball with me. I very much enjoy talking to people, about research or otherwise — please reach out!
 
 
 
