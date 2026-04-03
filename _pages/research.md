@@ -13,7 +13,7 @@ horizontal: false
 <small> <i> All author orderings alphabetical, per convention in theoretical CS. </i> </small>
 
 
-1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Sample-Efficient Black-box Reductions in Bayesian Mechanism Design with Independent Items.</i> In preparation. <br style="line-height:1.5;"> Preliminary version presented at EC'25 poster session and received Outstanding Senior Thesis Prize at Princeton. <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>
+1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Sample-Efficient Black-box Reductions in Bayesian Mechanism Design with Independent Items.</i> In submission. <a href="../assets/pdf/BlackboxReductions_Paper.pdf" target="_blank">[manuscript]</a> Preliminary version presented at EC'25 poster session. <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>
 
 2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission. <a href="../assets/pdf/OSSSP_Paper.pdf" target="_blank">[manuscript]</a>
 
