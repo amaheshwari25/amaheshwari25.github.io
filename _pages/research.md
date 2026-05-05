@@ -15,7 +15,7 @@ horizontal: false
 
 1. <b>AM</b>, S. Matthew Weinberg, Eric Xue. <i> Sample-Efficient Black-box Reductions in Bayesian Mechanism Design with Independent Items.</i> In submission. <a href="../assets/pdf/BlackboxReductions_Paper.pdf" target="_blank">[manuscript]</a> Preliminary version presented at EC'25 poster session. <a href="../assets/pdf/EC25_Poster.pdf" target="_blank">[poster]</a>
 
-2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> In submission. <a href="../assets/pdf/OSSSP_Paper.pdf" target="_blank">[manuscript]</a>
+2. <b>AM</b>, Elaine Shi. <i> Oblivious Priority Queue and SSSP in the External Memory Setting. </i> CRYPTO 2026. <a href="../assets/pdf/OSSSP_Paper.pdf" target="_blank">[manuscript]</a>
 
 3. Sara Logsdon, <b>AM</b>, István Miklós, Angelina Zhang. <i> A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality. </i> In submission to <i> Electronic Journal of Combinatorics</i>. Presentation at Joint Mathematics Meetings (JMM'25). <a href="https://arxiv.org/abs/2411.19049" target="_blank">[preprint]</a> 
 
