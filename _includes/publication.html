@@ -1,0 +1,27 @@
+<article class="publication">
+  <h3 class="publication-title">{{ publication.title }}</h3>
+
+  <p class="publication-authors">
+    {% assign author_count = publication.authors | size %}
+    {% for author in publication.authors %}
+      {% if author.me %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}{% if author_count == 2 %} and {% elsif forloop.rindex == 2 %}, and {% else %}, {% endif %}{% endunless %}
+    {% endfor %}
+  </p>
+
+  <p class="publication-details">
+    {% if publication.status_prefix %}
+      {{ publication.status_prefix }} <em>{{ publication.venue }}</em>
+    {% else %}
+      <em>{{ publication.venue }}</em>
+    {% endif %}
+    {% if publication.note %}<span class="publication-note">{{ publication.note }}</span>{% endif %}
+    {% if publication.links %}
+      <span class="publication-links">
+        {% for link in publication.links %}
+          <a href="{{ link.url }}">{{ link.label }}</a>
+        {% endfor %}
+      </span>
+    {% endif %}
+  </p>
+</article>
+
