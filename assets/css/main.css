@@ -67,6 +67,18 @@ a:focus-visible {
   padding: 5.25rem 0 6rem;
 }
 
+.site-credit {
+  margin-top: 4rem;
+  color: #77736d;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.site-credit p {
+  margin: 0;
+}
+
 .site-header {
   margin-bottom: 2.25rem;
 }
