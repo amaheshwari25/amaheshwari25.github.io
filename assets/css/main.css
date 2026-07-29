@@ -135,6 +135,7 @@ p {
 .profile-image {
   display: block;
   width: 100%;
+  max-width: 190px;
   height: auto;
   border-radius: 2px;
 }
