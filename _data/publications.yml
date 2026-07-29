@@ -6,7 +6,7 @@
     - name: S. Matthew Weinberg
     - name: Eric Xue
   venue: FOCS 2026.
-  note: Preliminary version presented as an EC ’25 poster.
+  note: Preliminary version presented as EC ’25 poster.
   links:
     - label: "[pdf]"
       url: /assets/pdf/BlackboxReductions_Paper.pdf
@@ -22,7 +22,7 @@
   venue: CRYPTO 2026.
   links:
     - label: "[pdf]"
-      url: /assets/pdf/OSSSP_Paper.pdf
+      url: https://eprint.iacr.org/2026/1285
 
 - title: A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality
   alphabetical: true
