@@ -143,13 +143,6 @@ h2 {
   line-height: 1.25;
 }
 
-.publication-convention {
-  margin: 0.35rem 0 0;
-  color: var(--muted);
-  font-size: 0.93rem;
-  font-style: italic;
-}
-
 .publication-list {
   margin-top: 2.25rem;
 }
@@ -177,8 +170,18 @@ h2 {
   color: var(--text);
 }
 
+.author-order {
+  margin-right: 0.3rem;
+  color: var(--muted);
+}
+
 .publication-details {
   color: var(--muted);
+}
+
+.publication-venue {
+  color: var(--text);
+  font-weight: 600;
 }
 
 .publication-note::before {
@@ -194,6 +197,41 @@ h2 {
 
 .publication-links a {
   font-size: 0.94em;
+}
+
+.site-footer {
+  margin-top: 3.75rem;
+}
+
+.social-links {
+  display: flex;
+  gap: 0.85rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social-links a {
+  display: grid;
+  width: 2.25rem;
+  height: 2.25rem;
+  place-items: center;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: var(--link);
+}
+
+.social-links svg {
+  width: 1.25rem;
+  height: 1.25rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.65;
 }
 
 .page h1 {

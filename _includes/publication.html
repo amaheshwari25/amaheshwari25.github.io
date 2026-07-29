@@ -2,6 +2,7 @@
   <h3 class="publication-title">{{ publication.title }}</h3>
 
   <p class="publication-authors">
+    {% if publication.alphabetical %}<span class="author-order" aria-label="Authors listed alphabetically">(α-β)</span>{% endif %}
     {% assign author_count = publication.authors | size %}
     {% for author in publication.authors %}
       {% if author.me %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}{% if author_count == 2 %} and {% elsif forloop.rindex == 2 %}, and {% else %}, {% endif %}{% endunless %}
@@ -10,9 +11,9 @@
 
   <p class="publication-details">
     {% if publication.status_prefix %}
-      {{ publication.status_prefix }} <em>{{ publication.venue }}</em>
+      {{ publication.status_prefix }} <strong class="publication-venue">{{ publication.venue }}</strong>
     {% else %}
-      <em>{{ publication.venue }}</em>
+      <strong class="publication-venue">{{ publication.venue }}</strong>
     {% endif %}
     {% if publication.note %}<span class="publication-note">{{ publication.note }}</span>{% endif %}
     {% if publication.links %}
@@ -24,4 +25,3 @@
     {% endif %}
   </p>
 </article>
-
