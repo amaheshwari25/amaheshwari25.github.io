@@ -329,3 +329,7 @@ h2 {
     scroll-behavior: auto !important;
   }
 }
+
+.semibold {
+  font-weight: 600;
+}
