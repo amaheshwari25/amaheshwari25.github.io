@@ -1,0 +1,46 @@
+---
+layout: default
+description: >-
+  Arya Maheshwari is an incoming PhD student in MIT EECS, affiliated with
+  CSAIL and LIDS, working in theoretical computer science, machine learning,
+  and game theory.
+---
+
+<section id="about" class="about" aria-label="About">
+  <p>
+    I’m an incoming PhD student in MIT EECS, affiliated with CSAIL and LIDS,
+    where I’m fortunate to be advised by
+    <a href="https://people.csail.mit.edu/costis/">Costis Daskalakis</a> and
+    <a href="https://mraghavan.github.io/">Manish Raghavan</a>. I am broadly
+    interested in theoretical computer science, machine learning, game theory,
+    and their intersections.
+  </p>
+
+  <p>
+    I completed my undergraduate studies in computer science, with a minor in
+    mathematics, at Princeton, where I was advised by
+    <a href="https://www.cs.princeton.edu/~smattw/">Matt Weinberg</a>. Before
+    beginning my PhD, I spent a year at Carnegie Mellon working with
+    <a href="https://elaineshi.com/">Elaine Shi</a>. I’m grateful to be
+    supported by an
+    <a href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program">NSF Graduate Research Fellowship</a>.
+    As an undergraduate, I received the
+    <a href="https://www.cs.princeton.edu/news/class-day-department-celebrates-graduates">Phillip Goldman ’86 Senior Prize in Computer Science</a>—Princeton
+    CS’s top academic honor—and a
+    <a href="https://www.princeton.edu/news/2023/05/10/four-undergraduates-named-goldwater-scholars">Goldwater Scholarship</a>.
+  </p>
+</section>
+
+<section id="publications" class="publications" aria-labelledby="publications-heading">
+  <h2 id="publications-heading">Publications</h2>
+  <p class="publication-convention">
+    Authors are listed alphabetically, following theory conventions.
+  </p>
+
+  <div class="publication-list">
+    {% for publication in site.data.publications %}
+      {% include publication.html publication=publication %}
+    {% endfor %}
+  </div>
+</section>
+

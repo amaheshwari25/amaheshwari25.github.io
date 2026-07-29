@@ -1,0 +1,38 @@
+- title: Sample-Efficient Black-box Reductions in Bayesian Mechanism Design with Independent Items
+  authors:
+    - name: Arya Maheshwari
+      me: true
+    - name: S. Matthew Weinberg
+    - name: Eric Xue
+  venue: FOCS 2026.
+  note: Preliminary version presented as an EC ’25 poster.
+  links:
+    - label: "[pdf]"
+      url: /assets/pdf/BlackboxReductions_Paper.pdf
+    - label: "[poster]"
+      url: /assets/pdf/EC25_Poster.pdf
+
+- title: Oblivious Priority Queue and SSSP in the External Memory Setting
+  authors:
+    - name: Arya Maheshwari
+      me: true
+    - name: Elaine Shi
+  venue: CRYPTO 2026.
+  links:
+    - label: "[pdf]"
+      url: /assets/pdf/OSSSP_Paper.pdf
+
+- title: A Dichotomy Theorem on the Complexity of 3-Uniform Hypergraphic Degree Sequence Graphicality
+  authors:
+    - name: Sara Logsdon
+    - name: Arya Maheshwari
+      me: true
+    - name: István Miklós
+    - name: Angelina Zhang
+  status_prefix: Submitted to the
+  venue: Electronic Journal of Combinatorics.
+  note: Presented at the 2025 Joint Mathematics Meetings.
+  links:
+    - label: "[pdf]"
+      url: https://arxiv.org/pdf/2411.19049
+

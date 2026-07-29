@@ -1,0 +1,265 @@
+:root {
+  color-scheme: light;
+  --background: #fbfaf7;
+  --text: #222222;
+  --muted: #66625d;
+  --link: #365f7d;
+  --rule: #dedbd4;
+  --focus: #9b5b2e;
+  --serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype",
+    "Book Antiqua", Palatino, Georgia, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: auto;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.67;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--link);
+  text-decoration-color: rgba(54, 95, 125, 0.5);
+  text-decoration-thickness: 0.055em;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  text-decoration-color: currentColor;
+}
+
+a:focus-visible {
+  border-radius: 2px;
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
+}
+
+.skip-link {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 10;
+  padding: 0.45rem 0.7rem;
+  background: var(--text);
+  color: var(--background);
+  transform: translateY(-180%);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.site-container {
+  width: min(100% - 48px, 780px);
+  margin: 0 auto;
+  padding: 5.25rem 0 6rem;
+}
+
+.site-header {
+  margin-bottom: 2.25rem;
+}
+
+.header-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.site-title {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(2.55rem, 7vw, 3rem);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.08;
+}
+
+a.site-title,
+.site-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.navigation {
+  display: flex;
+  gap: 1.4rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 1rem;
+}
+
+.navigation a {
+  color: var(--muted);
+  text-decoration-color: transparent;
+}
+
+.navigation a:hover {
+  color: var(--link);
+  text-decoration-color: currentColor;
+}
+
+main {
+  min-width: 0;
+}
+
+p {
+  margin: 0 0 1.15rem;
+}
+
+.about,
+.publications {
+  scroll-margin-top: 1.5rem;
+}
+
+.about p:last-child {
+  margin-bottom: 0;
+}
+
+.publications {
+  margin-top: 3.4rem;
+  padding-top: 2.65rem;
+  border-top: 1px solid var(--rule);
+}
+
+h2 {
+  margin: 0;
+  font-size: 1.65rem;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  line-height: 1.25;
+}
+
+.publication-convention {
+  margin: 0.35rem 0 0;
+  color: var(--muted);
+  font-size: 0.93rem;
+  font-style: italic;
+}
+
+.publication-list {
+  margin-top: 2.25rem;
+}
+
+.publication + .publication {
+  margin-top: 2.4rem;
+}
+
+.publication-title {
+  margin: 0 0 0.32rem;
+  font-size: 1.16rem;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  line-height: 1.4;
+}
+
+.publication-authors,
+.publication-details {
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.55;
+}
+
+.publication-authors {
+  color: var(--text);
+}
+
+.publication-details {
+  color: var(--muted);
+}
+
+.publication-note::before {
+  content: " ";
+}
+
+.publication-links {
+  display: inline-flex;
+  gap: 0.55rem;
+  margin-left: 0.55rem;
+  white-space: nowrap;
+}
+
+.publication-links a {
+  font-size: 0.94em;
+}
+
+.page h1 {
+  margin: 0 0 1.5rem;
+  font-size: clamp(2rem, 7vw, 2.6rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.12;
+}
+
+@media (max-width: 560px) {
+  body {
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  .site-container {
+    width: min(100% - 40px, 780px);
+    padding: 3rem 0 4.5rem;
+  }
+
+  .site-header {
+    margin-bottom: 1.9rem;
+  }
+
+  .header-row {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1.15rem;
+  }
+
+  .site-title {
+    font-size: clamp(2.25rem, 11vw, 2.7rem);
+  }
+
+  .navigation {
+    gap: 1.25rem;
+    font-size: 1rem;
+  }
+
+  .publications {
+    margin-top: 2.8rem;
+    padding-top: 2.2rem;
+  }
+
+  .publication-list {
+    margin-top: 1.9rem;
+  }
+
+  .publication + .publication {
+    margin-top: 2.15rem;
+  }
+
+  .publication-title {
+    font-size: 1.12rem;
+  }
+
+  .publication-links {
+    margin-left: 0.35rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+  }
+}
