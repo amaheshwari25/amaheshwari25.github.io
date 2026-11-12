@@ -133,7 +133,8 @@ p {
 }
 
 .about,
-.publications {
+.publications,
+.miscellaneous {
   scroll-margin-top: 1.5rem;
 }
 
@@ -168,6 +169,28 @@ p {
   margin-top: 3.4rem;
   padding-top: 2.65rem;
   border-top: 1px solid var(--rule);
+}
+
+.miscellaneous {
+  margin-top: 3.4rem;
+  padding-top: 2.65rem;
+  border-top: 1px solid var(--rule);
+}
+
+.miscellaneous-item {
+  margin-top: 2.25rem;
+}
+
+.miscellaneous-item h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.16rem;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  line-height: 1.4;
+}
+
+.miscellaneous-item p {
+  margin-bottom: 0;
 }
 
 h2 {
@@ -312,12 +335,17 @@ h2 {
     width: min(55vw, 190px);
   }
 
-  .publications {
+  .publications,
+  .miscellaneous {
     margin-top: 2.8rem;
     padding-top: 2.2rem;
   }
 
   .publication-list {
+    margin-top: 1.9rem;
+  }
+
+  .miscellaneous-item {
     margin-top: 1.9rem;
   }
 
